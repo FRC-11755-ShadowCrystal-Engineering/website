@@ -1,10 +1,10 @@
 <nav>
     <ul>
-        <li><a href="/">HOME</a></li>
-        <li><a href="/about">ABOUT</a></li>
-        <li><a href="/sponsor">OUTREACH</a></li>
-        <li><a href="/subteams">SUBTEAMS</a></li>
-        <li><a href="/sponsor">SPONSOR</a></li>
-        <li><a href="/sponsor">JOIN</a></li>
+        <li><a href="/" class:list={{ active: Astro.url.pathname == "/"}}>HOME</a></li>
+        <li><a href="/about" class:list={{ active: Astro.url.pathname == "/about"}}>ABOUT</a></li>
+        <li><a href="/sponsor" class:list={{ active: Astro.url.pathname == "/outreach"}}>OUTREACH</a></li>
+        <li><a href="/subteams" class:list={{ active: Astro.url.pathname == "/subteams"}}>SUBTEAMS</a></li>
+        <li><a href="/sponsor" class:list={{ active: Astro.url.pathname == "/sponsor"}}>SPONSOR</a></li>
+        <li><a href="/sponsor" class:list={{ active: Astro.url.pathname == "/join"}}>JOIN</a></li>
     </ul>
 </nav>
