@@ -32,6 +32,7 @@ nav ul {
     border-radius: 20px;
     border: 1px solid #FFFFFF1D;
     background: #FFFFFF0D;
+    gap: 10px;
     backdrop-filter: blur(12px);
 }
 
@@ -42,8 +43,8 @@ ul li a {
     font-size: 16px;
     padding: 5px 16px;
     text-decoration: none;
-    border-radius: 10px;
-    transition: all 0.2s ease;
+    border-radius: 20px;
+    transition: all 0.3s ease;
 }
 
 nav ul li a:hover {
@@ -53,4 +54,19 @@ nav ul li a:hover {
 .active {
     color: #fff;
     font-weight: bolder;
+}
+
+.home {
+    margin-left: 10px;
+}
+
+.join {
+    background: white;
+    color: black;
+    margin-right: 10px;
+}
+
+.join:hover {
+    background: black;
+    color: white;
 }
