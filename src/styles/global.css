@@ -96,6 +96,7 @@ nav ul li a:hover {
     .container {
         max-width: 375px;
     }
+
     nav ul {
         flex-direction: column;
         width: 100%;
