@@ -2,4 +2,6 @@
 layout: "../layouts/Layout.astro"
 title: "FRC 11755"
 ---
-wavawojvnao
+<div class="center">
+    <img src="/logoAndName.png" alt="Logo and Name" width="1000">
+</div>
