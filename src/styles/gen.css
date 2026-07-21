@@ -8,8 +8,8 @@ footer {
     max-width: 850px;
     box-sizing: border-box;
     padding: 20px;
-    border: 1px solid rgba(255, 255, 255, 0.115);
-    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid #FFFFFF1D;
+    background: #FFFFFF0D;
     margin: 0 auto 10px auto;
     color: #FFFFFF;
 }
@@ -19,13 +19,13 @@ footer {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 10px;
 }
 
 .footer-socials {
     display: flex;
     align-items: center;
-    gap: 14px;
+    gap: 10px;
 }
 
 .footer-home-link {
@@ -39,17 +39,17 @@ footer {
 }
 
 .footer-socials a {
-    color: rgba(255, 255, 255, 0.7);
+    color: #ccc;
     text-decoration: none;
     transition: color 0.2s ease;
 }
 
 .footer-socials a:hover {
-    color: #FFFFFF;
+    color: white;
 }
 
 .copyright {
-    color: rgba(255, 255, 255, 0.5);
+    color: #ccc;
 }
 
 @media (max-width: 600px) {
