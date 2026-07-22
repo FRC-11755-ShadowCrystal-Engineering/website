@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
 
 * {
     max-width: 100%;
@@ -22,6 +23,12 @@ body {
     align-items: center;
 }
 
+.container * {
+    font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+    font-weight: 400;
+    color: #D1D5DB;
+}
+
 .container {
     width: 100%;
     max-width: 850px;
@@ -31,7 +38,6 @@ body {
     border: 1px solid #FFFFFF1D;
     background: #FFFFFF0D;
     margin: 0 auto;
-    color: white;
     margin-bottom: 10px;
     mask-image: linear-gradient(#00000000, black 20px);
 }
