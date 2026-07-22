@@ -19,6 +19,11 @@ A student-led FIRST robotics team and non-profit STEM organization based in Germ
 - 5 high schools globally recruited with student impact.
 - Completely free: NO prior experience required and finanical contributions required.
 ---
+## PROGRAMS
+- FRC Team 11755.
+- STEMinars (see outreach).
+- Montgomery CoRoCo.
+
 ## WHO WE SERVE
 Open to any high school student (grade 9-12) from any school regardless of experience, background, or finanical status.
 
