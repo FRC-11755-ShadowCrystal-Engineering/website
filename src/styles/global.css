@@ -42,6 +42,24 @@ body {
     mask-image: linear-gradient(#00000000, black 20px);
 }
 
+.card * {
+    font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+    font-weight: 400;
+    color: #D1D5DB;
+}
+
+.card {
+    width: 100%;
+    max-width: 850px;
+    overflow-wrap: break-word;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid #FFFFFF1D;
+    background: #FFFFFF0D;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
 nav {
     position: sticky;
     top: 1rem;
