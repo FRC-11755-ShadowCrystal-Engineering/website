@@ -47,7 +47,6 @@ body {
     color: black;
     text-decoration: none;
     padding: 7px;
-    border-radius: 7px;
     transition: all 0.2s ease;
 }
 
@@ -55,7 +54,6 @@ body {
     background: black;
     color: white;
     text-decoration: none;
-    padding: 10px;
 }
 
 .card * {
@@ -66,7 +64,6 @@ body {
 }
 
 .card {
-    border-radius: 20px;
     display: flex;
     width: 100%;
     max-width: 850px;
@@ -84,7 +81,6 @@ body {
 .card:hover {
     border: 1px solid #FFFFFF2D;
     background: #FFFFFF1D;
-    padding: 25px;
 }
 
 nav {
