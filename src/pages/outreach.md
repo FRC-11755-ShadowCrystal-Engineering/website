@@ -16,6 +16,10 @@ STEMinars and free STEM information for all ages.
 ## UPCOMING
 ---
 <div class="card">
+    <span>Hypersonics</span>
+    <span>2026/08/02</span>
+</div>
+<div class="card">
     <span>DC Motor Feedforward and Dynamics</span>
     <span>TBD</span>
 </div>
@@ -26,10 +30,6 @@ STEMinars and free STEM information for all ages.
 <div class="card">
     <span>Fundamentals of Drone Design and Flight</span>
     <span>TBD</span>
-</div>
-<div class="card">
-    <span>Hypersonics</span>
-    <span>2026/08/02</span>
 </div>
 
 ## ARCHIVE
