@@ -4,13 +4,13 @@ title: "OUTREACH"
 ---
 # OUTREACH
 STEMinars and free STEM information for all ages.
-> ## <a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank">John PID's Bot Talk</a>
+> ## <a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener noreferrer">John PID's Bot Talk</a>
 
 ## CURRENT
 ---
 <div class="card">
     <span>STEMinar #4 Team Structure Tips</span>
-    <span><a href="https://forms.gle/NckhaLLb392vKH9CA" target="_blank">SIGN UP</a></span>
+    <span><a href="https://forms.gle/NckhaLLb392vKH9CA" target="_blank" rel="noopener noreferrer">SIGN UP</a></span>
 </div>
 
 ## UPCOMING
