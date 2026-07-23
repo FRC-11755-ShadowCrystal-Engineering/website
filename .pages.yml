@@ -1,0 +1,13 @@
+media:
+  input: public
+  output: /
+
+content:
+  - name: pages
+    label: Pages
+    type: collection
+    path: "src/pages"
+    fields:
+    - { name: layout, type: string, hidden: true }
+    - { name: title, label: Title, type: string }
+    - { name: body, label: Body, type: rich-text }
