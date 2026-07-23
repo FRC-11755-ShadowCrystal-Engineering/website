@@ -3,7 +3,7 @@ layout: "../layouts/Layout.astro"
 title: "SUBTEAMS"
 ---
 # SUBTEAMS & DIVISIONS
-Each subteam is guided by mentors with real-world experience.
+Each subteam is guided by mentors with real-world experience. NOTE: If you are joining the team and are unsure of which to choose, we will let you explore all of them.
 
 ## TERRESTRIAL DIVISION
 ---
