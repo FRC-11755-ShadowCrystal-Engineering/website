@@ -23,14 +23,6 @@ STEMinars and free STEM information for all ages.
     <span>DC Motor Feedforward and Dynamics</span>
     <span>TBD</span>
 </div>
-<div class="card">
-    <span>Fundamentals of Model Rocketry</span>
-    <span>TBD</span>
-</div>
-<div class="card">
-    <span>Fundamentals of Drone Design and Flight</span>
-    <span>TBD</span>
-</div>
 
 ## ARCHIVE
 ---
