@@ -1,4 +1,4 @@
-# FRC 11755 - SHADOWCRYSTAL ENGINEERING website
+# website
 The repository for ShadowCrystal Engineering's website, built with Astro.
 <p>
   <a href="https://skillicons.dev">
