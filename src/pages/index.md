@@ -1,6 +1,6 @@
 ---
-layout: "../layouts/Layout.astro"
-title: "FRC 11755"
+layout: ../layouts/Layout.astro
+title: FRC 11755
 ---
 <div class="center">
     <img src="/logoAndName.png" alt="Logo and Name" width="1000">
@@ -8,7 +8,7 @@ title: "FRC 11755"
 
 # Welcome to SHADOWCRYSTAL ENGINEERING
 
-### FRC TEAM 11755 | MARYLAND | Montgomery and Fredrick counties
+### FRC TEAM 11755 - MARYLAND - Montgomery and Frederick counties
 A student-led FIRST robotics team and non-profit STEM organization based in Germantown, Maryland. Our CASTLE TOWN (home base) is located at Seneca Valley High School at Crystal Rock Drive in Germantown.
 >no prior experience required
 ---
@@ -17,7 +17,7 @@ A student-led FIRST robotics team and non-profit STEM organization based in Germ
 - 11 student members and counting.
 - 3 student mentors.
 - 5 high schools globally recruited with student impact.
-- Completely free: NO prior experience required and finanical contributions required.
+- Completely free: NO prior experience or finanical contributions required.
 ---
 ## PROGRAMS
 - FRC Team 11755.
