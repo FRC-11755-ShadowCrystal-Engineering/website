@@ -4,7 +4,7 @@ title: OUTREACH
 ---
 # OUTREACH
 STEMinars and free STEM information for all ages.
-> ## <a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener noreferrer">John PID's Bot Talk</a>
+<a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener noreferrer">Find Team Videos on John PID's Bot Talk</a>
 
 ## AIRING THIS SUNDAY
 ---
