@@ -3,8 +3,9 @@ layout: ../layouts/Layout.astro
 title: OUTREACH
 ---
 # OUTREACH
-STEMinars and free STEM information for all ages.
-<a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener noreferrer">Find team videos on John PID's Bot Talk</a>
+ShadowCrystal's mission goes far beyond success in robotics competitions. Through our STEMinar series, we provide introductions to a wide variety of STEM topics to high schoolers across the world. As the lead team behind the Montgomery County Robotics Coalition, we are building capacity for increased community impact and making robotics teams stronger.
+<br>
+<a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener noreferrer">Find team video media on John PID's Bot Talk</a>
 
 ## AIRING THIS SUNDAY
 ---
