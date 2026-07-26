@@ -6,7 +6,7 @@ title: OUTREACH
 STEMinars and free STEM information for all ages.
 > ## <a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener noreferrer">John PID's Bot Talk</a>
 
-## CURRENT
+## AIRING THIS SUNDAY
 ---
 <div class="card">
     <span>STEMinar #4 Team Structure Tips</span>
