@@ -4,7 +4,7 @@ title: ABOUT
 ---
 # About SHADOWCRYSTAL ENGINEERING
 
-> ## <a href="https://docs.google.com/document/d/1eegXfPn8hVy2j38m6guz7pnWfcmwS3SgysKV0gtVm34/edit?usp=sharing" target="_blank" rel="noopener noreferrer">2026 Q2 Business Plan</a>
+> ## <a href="https://docs.google.com/document/d/1eegXfPn8hVy2j38m6guz7pnWfcmwS3SgysKV0gtVm34/edit?usp=sharing" target="_blank" rel="noopener noreferrer">2026 Q3 Business Plan</a>
 
 A student-led non profit organization dedicated to the expansion of STEM opportunity. We seek to open up access to STEM for every student regardless of what school they attend or how much money they can spend.
 
