@@ -1,9 +1,9 @@
 ---
-layout: "../layouts/Layout.astro"
-title: "CONTACT"
+layout: ../layouts/Layout.astro
+title: CONTACT
 ---
 # CONTACT
-How to contact SHADOWCRYSTAL ENGINEERING.
+We'd love to talk with you via our official email address:
 > ### <a href="mailto:shadowcrystalengineering@gmail.com">shadowcrystalengineering@gmail.com</a>
 
 ## LOCATION
