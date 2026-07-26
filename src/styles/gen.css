@@ -137,6 +137,7 @@ footer {
     
     .container {
         max-width: 375px;
+        margin-top: 50px;
     }
 
     .hamburger {
@@ -155,7 +156,6 @@ footer {
         border: 1px solid #FFFFFF1D;
         background: #FFFFFF0D;
         backdrop-filter: blur(12px);
-        -webkit-backdrop-filter: blur(12px);
         border-radius: 50%;
         cursor: pointer;
         z-index: 1001;
@@ -212,7 +212,6 @@ footer {
         border: 1px solid #FFFFFF1D;
         background: #FFFFFF0D;
         backdrop-filter: blur(16px);
-        -webkit-backdrop-filter: blur(16px);
         border-radius: 20px;
         box-sizing: border-box;
         opacity: 0;
