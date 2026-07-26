@@ -1,34 +1,35 @@
 ---
-layout: "../layouts/Layout.astro"
-title: "SUBTEAMS"
+layout: ../layouts/Layout.astro
+title: SUBTEAMS
 ---
 # SUBTEAMS & DIVISIONS
-Each subteam is guided by mentors with real-world experience. NOTE: If you are joining the team and are unsure of which to choose, we will let you explore all of them.
+Each subteam is guided by mentors with real-world experience. New recruits are given the opportunity to explore several disciplines through self-motivated learning courses where you can receive feedback from experts.
 
-## TERRESTRIAL DIVISION
+## TECHNICAL SUBTEAMS
 ---
-### MECHANICAL
-- CAD: Computer-Aided Design using onshape to create metal stock, and structural design.
-- Fabrication and assembly: Machining aswell as working with drive trains, pnuematics, and motor controllers.
-- Testing: Iterating mechanisms under realistic conditions to meet durability standards under competition stress.
+### MECHANICAL SUBTEAM
+- CAD: Computer-Aided Design using Onshape to design intricate robots
+- Fabrication and Assembly: We use industry-standard power tools and machines to manufacture quality robot parts. Then, we follow our CAD blueprints to build hundred-pound robots
+- Testing: Iterating mechanisms under realistic conditions to create the best possible machines
 
-### SOFTWARE
-- Robot codebase: Writing in industry-standard frameworks such as Java with the WPILib.
-- Control loops: Implement PID loops and motion profiling (feedback systems) for accurate robot control.
-- Autonomus operation: Develop computer vision through autonomous pathing routines by managing sensor data through high-speed machine movement with up-to-centimeter accuracy.
+### SOFTWARE SUBTEAM
+- Robot Codebase: Writing code in Java via the WPILib framework
+- Control Loops: Implement PID loops and motion profiling (feedback systems) for accurate robot control
+- Autonomus Operation: Combining computer vision with autonomous pathing routines to achieve precision scoring
+- Application Design: Maintaining and creating applications and sites to increase the team's performance in the community and in competition
 
-### ELECTRICAL
-- System wiring: Designing motor controller connections.
-- Wire management: Cable routing and organization standards to maintain reliable power.
-- Diagnostics: Troubleshooting electrical faults.
+### ELECTRICAL SUBTEAM
+- System wiring: Designing systems of signal and power wires throughout our bots
+- Wire management: Cable routing and organization standards to create robust systems
+- Diagnostics: Troubleshooting electrical faults
 
-## BUSINESS DIVISION
+## BUSINESS SUBTEAM
 ---
 ### FUNDRAISING AND GRANTS
 Write compelling grant applications, lead fundraising campaigns, and communicate impact to potential donors.
 
 ### MARKETING AND MEDIA
-Manage public presence: through social media, event promotion, community outreach, and recruitment campaigns.
+Manage public presence through social media, event promotion, community outreach, and recruitment campaigns.
 
-### LEADERSHIP
-Take leadership roles such as divison leads, project managers, and officer mentor guidance.
+### OUTREACH AND ADVOCACY
+Champion projects which expand and strengthen pathways to STEM education and STEM aceers
