@@ -4,7 +4,7 @@ title: OUTREACH
 ---
 # OUTREACH
 ShadowCrystal's mission goes far beyond success in robotics competitions. Through our STEMinar series, we provide introductions to a wide variety of STEM topics to high schoolers across the world. As the lead team behind the Montgomery County Robotics Coalition, we are uniting local FRC teams, scaling STEM outreach, and making all of our teams' robots stronger.
-<br>
+<br><br>
 <a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener noreferrer">Find team video media on John PID's Bot Talk</a>
 
 ## AIRING THIS SUNDAY
