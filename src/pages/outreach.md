@@ -1,6 +1,6 @@
 ---
-layout: "../layouts/Layout.astro"
-title: "OUTREACH"
+layout: ../layouts/Layout.astro
+title: OUTREACH
 ---
 # OUTREACH
 STEMinars and free STEM information for all ages.
@@ -18,10 +18,6 @@ STEMinars and free STEM information for all ages.
 <div class="card">
     <span>Hypersonics</span>
     <span>2026/08/02</span>
-</div>
-<div class="card">
-    <span>DC Motor Feedforward and Dynamics</span>
-    <span>TBD</span>
 </div>
 
 ## ARCHIVE
