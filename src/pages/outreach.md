@@ -16,10 +16,7 @@ ShadowCrystal's mission goes far beyond success in robotics competitions. Throug
 
 ## UPCOMING
 ---
-<div class="card">
-    <span>Hypersonics</span>
-    <span>2026/08/02</span>
-</div>
+See the above.
 
 ## ARCHIVE
 ---
