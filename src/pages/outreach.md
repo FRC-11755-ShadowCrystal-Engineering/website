@@ -16,7 +16,7 @@ ShadowCrystal's mission goes far beyond success in robotics competitions. Throug
 
 ## UPCOMING
 ---
-See the above.
+See the above STEMinar.
 
 ## ARCHIVE
 ---
