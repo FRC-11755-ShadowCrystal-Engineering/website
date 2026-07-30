@@ -10,8 +10,8 @@ ShadowCrystal's mission goes far beyond success in robotics competitions. Throug
 ## AIRING THIS SUNDAY
 ---
 <div class="card">
-    <span>STEMinar #4 Team Structure Tips</span>
-    <span><a href="https://forms.gle/NckhaLLb392vKH9CA" target="_blank" rel="noopener noreferrer">SIGN UP</a></span>
+    <span>STEMinar #5 Physics of Hypersonic Flight</span>
+    <span><a href="https://forms.gle/VRbvkjzk8fTHaXt1A" target="_blank" rel="noopener noreferrer">SIGN UP</a></span>
 </div>
 
 ## UPCOMING
@@ -24,8 +24,16 @@ ShadowCrystal's mission goes far beyond success in robotics competitions. Throug
 ## ARCHIVE
 ---
 <div class="card">
+    <span>STEMinar #4 Team Structure Tips</span>
+    <span>2026/07/20</span>
+</div>
+<div class="card">
     <span><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tbuB3_PIGKA?si=wKrUE6cxf7HoytH1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></span>
     <span>2026/07/20</span>
+</div>
+<div class="card">
+  <span><iframe src="https://drive.google.com/file/d/1r6pRrDT67vvRJlseLKSiiz8RZtFdzzYP/preview" width="560" height="315"></iframe></span>
+  <span>2026/07/05</span>
 </div>
 <div class="card">
     <span><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwF8y1UrGuE?si=Y3l86OA1h3g9Tifd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></span>
