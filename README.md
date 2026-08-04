@@ -15,7 +15,7 @@ Once you are in the repository using either Git clone or GitHub Desktop, you can
 npm install
 npm run dev
 ```
-to install any npm packages and run the site at [localhost](http://localhost:4321/) or directly on your computer.
+to install any npm packages and run the site at `localhost:4321` (accesible through a web browser) directly on your computer.
 
 ## Contribution
 To edit pages, you can look at the markdown (with the `md` extension) files at `/src/pages/`. To edit files, look anywhere in the `/src/` directory for styles, components, or layouts. The directory `/public/` includes image files and can be called on by `/example.extension`. Files with the extension `.astro` can use HTML and markdown combined.
