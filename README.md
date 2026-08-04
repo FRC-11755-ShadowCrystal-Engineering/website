@@ -1,6 +1,6 @@
 <img src="https://shadowcrystal.org/logoAndName.png" style="justify-content: center;">
 
-# FRC Team 11755 - SHADOWCRYSTAL ENGINEERING Website
+# FRC Team 11755 - SHADOWCRYSTAL Website
 This website is built on [Astro](https://astro.build.com), a modern web framework for markdown-based content. This means you get the performance of a static website with the advantage of `components`.
 > Hosted using GitHub Pages/Actions (read the [Astro documentation](https://docs.astro.build/en/guides/deploy/github/)).
 
