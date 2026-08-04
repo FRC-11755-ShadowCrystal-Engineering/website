@@ -177,7 +177,6 @@ footer {
         border: 1px solid #FFFFFF1D;
         background: #FFFFFF0D;
         backdrop-filter: blur(12px);
-        -webkit-backdrop-filter: blur(12px);
         border-radius: 20px;
         cursor: pointer;
         z-index: 1001;
