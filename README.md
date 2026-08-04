@@ -5,7 +5,7 @@ This website is built on [Astro](https://astro.build.com), a modern web framewor
 > Hosted using GitHub Pages/Actions (read the [Astro documentation](https://docs.astro.build/en/guides/deploy/github/)).
 
 ## Installation
-[Node.js](https://nodejs.org/en) is required for npm package management. This repository uses Astro (as mentioned), Lenis for smooth web scrolling, and OGL for the "fluid" animation.
+[Node.js](https://nodejs.org/en) is required for npm package management. This repository uses [Astro](https://astro.build.com) (as mentioned), the package [Lenis](https://www.npmjs.com/package/lenis) for smooth web scrolling, and [OGL](https://www.npmjs.com/package/ogl) for the "fluid" animation.
 
 [Git](https://git-scm.com/) or [GitHub Desktop](https://github.com/apps/desktop) is required is contribute. This will not be explained here as there are many resources created for them.
 > If you are on Windows you may need to change your [Execution Policy](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy).
