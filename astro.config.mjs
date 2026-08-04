@@ -7,6 +7,6 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   trailingSlash: "never",
   site: "https://shadowcrystal.org",
-  base: "/website",
+  base: "/website/",
   integrations: [sitemap()],
 });
