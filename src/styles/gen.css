@@ -227,10 +227,9 @@ footer {
         left: 50%;
         transform: translateX(-50%) scale(0.2);
         transform-origin: top center;
-        width: 100%;
-        max-width: 320px;
+        width: 90%;
         padding: 15px 10px;
-        gap: 5px;
+        gap: 15px;
         border: 1px solid #FFFFFF1D;
         background: #FFFFFF0D;
         backdrop-filter: blur(16px);
