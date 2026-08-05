@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://shadowcrystal.org/logoAndName.png" width="777px">
+    <a href="https://shadowcrystal.org/"><img src="https://shadowcrystal.org/logoAndName.png" width="777px"></a>
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/qu7eRQJzgf" target="_blank" rel="noopener"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
-    <a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener"><img height="30px" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
-    <a href="https://www.instagram.com/shadowcrystalengineering" target="_blank" rel="noopener"><img height="30px" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+    <a href="https://discord.gg/qu7eRQJzgf"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+    <a href="https://www.youtube.com/@J.P.I.Derivative/videos"><img height="30px" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+    <a href="https://www.instagram.com/shadowcrystalengineering"><img height="30px" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 
 # FRC Team 11755 - SHADOWCRYSTAL Website
@@ -56,5 +56,5 @@ Once complete, use the Git tool you selected to commit changes to `main`.
 See [Markdown Guide](https://www.markdownguide.org/basic-syntax/) for more information. [Markdown](https://www.markdownguide.org/basic-syntax/) is close to plaintext with a little formatting included.
 
 <p align="center">
-    <img src="https://shadowcrystal.org/logo.png" width="150px">
+    <a href="https://shadowcrystal.org/"><img src="https://shadowcrystal.org/logo.png" width="150px"></a>
 </p>
