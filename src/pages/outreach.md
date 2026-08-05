@@ -7,18 +7,19 @@ ShadowCrystal's mission goes far beyond success in robotics competitions. Throug
 <br><br>
 <a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener noreferrer">Find team video media on John PID's Bot Talk</a>
 
-## AIRING THIS SUNDAY
+## AIRING
 ---
-<div class="card">
-    <span>STEMinar #5 Physics of Hypersonic Flight</span>
-    <span><a href="https://forms.gle/VRbvkjzk8fTHaXt1A" target="_blank" rel="noopener noreferrer">SIGN UP</a></span>
-</div>
+NEXT STEMINAR SOON!
 
 ## UPCOMING
 ---
 See the above STEMinar.
 
 ## ARCHIVE
+<div class="card">
+    <span>STEMinar #5 Physics of Hypersonic Flight</span>
+    <span>2026/08/<04/span>
+</div>
 ---
 <div class="card">
     <span>STEMinar #4 Team Structure Tips</span>
