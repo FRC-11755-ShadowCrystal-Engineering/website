@@ -30,7 +30,7 @@ See the above STEMinar.
 </div>
 <div class="card">
   <span><iframe src="https://drive.google.com/file/d/1r6pRrDT67vvRJlseLKSiiz8RZtFdzzYP/preview" width="560" height="315"></iframe></span>
-  <span>2026/07/05 (recording corrupted)</span>
+  <span>2026/07/05</span>
 </div>
 <div class="card">
     <span><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwF8y1UrGuE?si=Y3l86OA1h3g9Tifd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></span>
