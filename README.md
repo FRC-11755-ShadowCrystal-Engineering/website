@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://discord.gg/qu7eRQJzgf" target="_blank" rel="noopener"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
-    <a href="https://www.youtube.com/@J.P.I.Derivative/videos/" target="_blank" rel="noopener"><img height="30px" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+    <a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener"><img height="30px" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
     <a href="https://www.instagram.com/shadowcrystalengineering" target="_blank" rel="noopener"><img height="30px" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 
