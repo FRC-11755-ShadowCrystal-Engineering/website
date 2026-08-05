@@ -1,4 +1,12 @@
-<img src="https://shadowcrystal.org/logoAndName.png">
+<p align="center">
+<img src="https://shadowcrystal.org/logoAndName.png" width="777">
+</p>
+
+<p align="center">
+    <a href="https://discord.gg/qu7eRQJzgf/"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+    <a href="https://www.youtube.com/@J.P.I.Derivative/videos/"><img height="30px" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+    <a href="https://www.instagram.com/shadowcrystalengineering/"><img height="30px" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+</p>
 
 # FRC Team 11755 - SHADOWCRYSTAL Website
 This website is built on [Astro](https://astro.build.com), a modern web framework for [Markdown](https://www.markdownguide.org/basic-syntax/)-based content. This means you get the performance of a static website with the advantage of `components`.
