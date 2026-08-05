@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://shadowcrystal.org/logoAndName.png" width="777">
+    <img src="https://shadowcrystal.org/logoAndName.png" width="777">
 </p>
 
 <p align="center">
@@ -54,3 +54,7 @@ Once complete, use the Git tool you selected to commit changes to `main`.
 
 ## Markdown Syntax
 See [Markdown Guide](https://www.markdownguide.org/basic-syntax/) for more information. [Markdown](https://www.markdownguide.org/basic-syntax/) is close to plaintext with a little formatting included.
+
+<p align="center">
+    <img src="https://shadowcrystal.org/logo.png" width="777">
+</p>
