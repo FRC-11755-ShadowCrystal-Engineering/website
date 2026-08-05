@@ -7,7 +7,7 @@ ShadowCrystal's mission goes far beyond success in robotics competitions. Throug
 <br><br>
 <a href="https://www.youtube.com/@J.P.I.Derivative/videos" target="_blank" rel="noopener noreferrer">Find team video media on John PID's Bot Talk</a>
 
-## AIRING
+## AIRING THIS SUNDAY
 ---
 NEXT STEMINAR SOON!
 
