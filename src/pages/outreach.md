@@ -18,7 +18,7 @@ See the above STEMinar.
 ## ARCHIVE
 <div class="card">
     <span><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-XdvQbLrN6AXEKwoYt5FjVSxgjOAN6yakg62gM_2qVFhr0VBTpyl-rfRpL1dzp5Osx8yYtkno7jmr/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></span>
-    <span>2026/08/04/span>
+    <span>2026/08/04</span>
 </div>
 <div class="card">
     <span><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGl02eWMLz1gEQLpy2_8MOYK0PUa1akODnE93xnbRYFelImAp6m24W3tlUWqDPKriSv0eIoecgCazN/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></span>
