@@ -6,61 +6,62 @@
 }
 
 /* OUTREACH CARD */
-.card a {
-    background: white;
-    color: black;
-    text-decoration: none;
-    padding: 12px 18px;
-    display: block;
-    text-align: center;
-    transition: all 0.2s ease;
-}
-
-.card a:hover {
-    background: black;
-    color: white;
-}
-
-.card * {
-    font-weight: 400;
-    font-family: "JetBrains Mono", monospace;
-    font-size: clamp(15px, 3.5vw, 22px);
-    color: #D1D5DB;
-}
-
 .card {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
-    gap: 15px;
+    flex-direction: column;
     width: 100%;
     max-width: 850px;
     box-sizing: border-box;
     padding: 20px;
-    border: 1px solid #FFFFFF1D;
-    background: #FFFFFF0D;
-    margin: 0 auto 10px auto;
-    transition: all 0.2s ease;
+    margin: 0 auto 10px;
+    
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.11);
+    
+    /* Preserved original typography */
+    font-family: "JetBrains Mono", monospace;
+    font-size: clamp(15px, 3.5vw, 22px);
+    font-weight: 400;
+    color: #D1D5DB;
+    
     overflow-wrap: break-word;
+    transition: background 0.2s ease, border-color 0.2s ease;
 }
 
 .card:hover {
-    border: 1px solid #FFFFFF2D;
-    background: #FFFFFF1D;
+    background: rgba(255, 255, 255, 0.11);
+    border-color: rgba(255, 255, 255, 0.18);
+}
+
+.card > span:last-child {
+    order: -1;
+    width: 100%;
+    padding-bottom: 12px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.11);
+    box-sizing: border-box;
+}
+
+.card > span:first-child {
+    width: 100%;
+    display: flex;
+}
+
+.card iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border: none;
 }
 
 @media (max-width: 600px) {
     .card {
-        flex-direction: column;
-        align-items: stretch;
         padding: 15px;
     }
 
-    .card a {
-        width: 100%;
-        box-sizing: border-box;
+    .card > span:last-child {
+        padding-bottom: 10px;
+        margin-bottom: 12px;
     }
 }
 
