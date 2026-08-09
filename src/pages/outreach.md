@@ -17,11 +17,11 @@ See the above STEMinar.
 
 ## ARCHIVE
 <div class="card">
-    <span>STEMinar #5 Physics of Hypersonic Flight</span>
-    <span>2026/08/<04/span>
+    <span><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-XdvQbLrN6AXEKwoYt5FjVSxgjOAN6yakg62gM_2qVFhr0VBTpyl-rfRpL1dzp5Osx8yYtkno7jmr/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></span>
+    <span>2026/08/04/span>
 </div>
 <div class="card">
-    <span>STEMinar #4 Team Structure Tips</span>
+    <span><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGl02eWMLz1gEQLpy2_8MOYK0PUa1akODnE93xnbRYFelImAp6m24W3tlUWqDPKriSv0eIoecgCazN/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></span>
     <span>2026/07/20</span>
 </div>
 <div class="card">
@@ -29,7 +29,7 @@ See the above STEMinar.
     <span>2026/07/20</span>
 </div>
 <div class="card">
-  <span><iframe src="https://drive.google.com/file/d/1r6pRrDT67vvRJlseLKSiiz8RZtFdzzYP/preview" width="560" height="315"></iframe></span>
+  <span><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpCkxcaIg5HAevd1WlSAaMWF2W5PX0woMz_eMY7nwPmW22hvqqZTBDNsF8R_r3iwCMUDg3hmtxn2a2/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></span>
   <span>2026/07/05</span>
 </div>
 <div class="card">
