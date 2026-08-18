@@ -70,7 +70,7 @@ footer {
     display: flex;
     flex-direction: column;
     width: 100%;
-    max-width: 850px;
+    max-width: 900px;
     box-sizing: border-box;
     padding: 20px;
     border: 1px solid #FFFFFF1D;
