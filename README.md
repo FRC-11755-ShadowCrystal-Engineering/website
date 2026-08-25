@@ -48,7 +48,7 @@ hello, world
     <span><a href="https://example.com" target="_blank" rel="noopener noreferrer">EXAMPLE</a></span>
 </div>
 ```
-> In the near future, we will turn the cards in `outreach.md` into a [content collection](https://docs.astro.build/en/guides/content-collections/) to easily add/move outreach events between AIRING, UPCOMING, and ARCHIVE folders. We will also include posts to show our community STEM impact.
+> In the near future, we will turn the cards in `outreach.md` into a [content collection](https://docs.astro.build/en/guides/content-collections/) to easily add/move outreach events between AIRING, UPCOMING, and ARCHIVE folders.
 
 Once complete, use the Git tool you selected to commit changes to `main`.
 
