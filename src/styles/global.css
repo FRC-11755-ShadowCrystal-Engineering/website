@@ -96,3 +96,7 @@ nav ul li a:hover {
     background: black;
     color: white;
 }
+
+.lenis.lenis-smooth iframe {
+    pointer-events: none;
+}
