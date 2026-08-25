@@ -43,9 +43,17 @@ title: FRC 11755
 hello, world
 > hello, world
 
+# stem
 <div class="card">
-    <span>EXAMPLE</span>
+    <span>TITLE</span>
     <span><a href="https://example.com" target="_blank" rel="noopener noreferrer">EXAMPLE</a></span>
+</div>
+
+# outreach
+<div class="post">
+    <span>DESCRIPTION</span>
+    <img src="/image.png">
+    <span>TITLE</span>
 </div>
 ```
 > In the near future, we will turn the cards in `outreach.md` into a [content collection](https://docs.astro.build/en/guides/content-collections/) to easily add/move outreach events between AIRING, UPCOMING, and ARCHIVE folders.
