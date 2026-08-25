@@ -34,6 +34,7 @@
     margin-bottom: 15px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.11);
     box-sizing: border-box;
+    font-weight: 700;
 }
 
 .post > span:first-child {
